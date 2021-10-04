@@ -14,7 +14,6 @@
 - Webpack
 
 **Loaders**
-
--babel
+- babel
 
 
