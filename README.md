@@ -16,4 +16,10 @@
 **Loaders**
 - babel
 
+**Basic React Commands:**
+
+To run the react-app:
+
+`npm run start` 
+
 
