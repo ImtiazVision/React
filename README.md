@@ -4,6 +4,8 @@
 
 Because React is a view-only library, it can be effortlessly integrated with any other library or framework (it is the view part of the Model View Controler MVC architectural UI pattern). The ability to utilize any other framework and library allows for experimentation and hence innovation.
 
+React provides a straightforward API, so there is no steep learning curve. There are just a few techniques to learn. The code for creating UI 'components' (i.e., buttons, etc.) is straightforward since there is very little boilerplate code, making the library very accessible.
+
 **Reminder** Focus more on building a working application rather than tools and features. We will learn them as we go along. It is a process and it will take time. 
 
 **Packages/Libraries** 
