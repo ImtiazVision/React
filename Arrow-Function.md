@@ -23,3 +23,5 @@ We must keep the following considerations in mind while developing an arrow func
 - Remove the function keyword at the start.
 
 - If we just have one parameter, we may also remove the parameter parenthesis.
+
+In React apps, JavaScript arrow functions are frequently utilized to make the code simple and understandable.
