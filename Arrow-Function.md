@@ -6,11 +6,12 @@ const arrowFunction1 = () => {
   return 'Welcome to arrow 1 function`;
 } 
 
+console.log(arrowFunction1());
 ```
 ES6 arrow function with no body and implicit return : 
 
 ```
 const arrowFunction2 = () => 
   'Welcome to arrow 2 function with no body and return type';
-  
+  console.log(arrowFunction2());
 ```
