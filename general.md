@@ -11,7 +11,9 @@ Alternatively, we may use the Spread Operator to get the same result:
 x = [1,2,3];
 y = [4,5,6];
 z = [...x, ...y]; //spread operator
-console.log("z: " + z);```
+console.log("z: " + z);
+
+```
 
 In React, we can use the Spread Operator to join two objects and add more attributes to that object. Let's assume we have two objects, obj1 and obj2, and we want to combine them to get a new one that has all of the features of both. Consider the following example:
 
