@@ -1,25 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react';
+const welcome = {
+  greeting: 'Hey',
+  title: 'React',
+};
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Testing the component.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>
+        {welcome.greeting} {welcome.title}
+      </h1>
+      <label htmlFor="search">Search: </label>
+      <input id="search" type="text" />
     </div>
   );
 }
-
 export default App;
