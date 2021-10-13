@@ -9,6 +9,8 @@ Because React is a view-only library, it can be effortlessly integrated with any
 
 React provides a straightforward API, so there is no steep learning curve. There are just a few techniques to learn. The code for creating UI 'components' (i.e., buttons, etc.) is straightforward since there is very little boilerplate code, making the library very accessible.
 
+React can be used to manipulate portions of HTML or full pages. This is known as the "Widget" strategy, in which some pages are still rendered on and supplied by a backend server while react handles the rest of the page.
+
 **Reminder** Focus more on building a working application rather than tools and features. We will learn them as we go along. It is a process and it will take time. 
 
 **Packages/Libraries** 
