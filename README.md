@@ -11,6 +11,8 @@ React provides a straightforward API, so there is no steep learning curve. There
 
 React can be used to manipulate portions of HTML or full pages. This is known as the "Widget" strategy, in which some pages are still rendered on and supplied by a backend server while react handles the rest of the page.
 
+React may also be used to control the whole frontend of a web application known as a 'Single-Page-Application' (SPA). In this method, the server just provides one HTML page, after which React takes over and controls the UI.
+
 **Reminder** Focus more on building a working application rather than tools and features. We will learn them as we go along. It is a process and it will take time. 
 
 **Packages/Libraries** 
