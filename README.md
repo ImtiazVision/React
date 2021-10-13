@@ -13,7 +13,13 @@ React can be used to manipulate portions of HTML or full pages. This is known as
 
 React may also be used to control the whole frontend of a web application known as a 'Single-Page-Application' (SPA). In this method, the server just provides one HTML page, after which React takes over and controls the UI.
 
-**Reminder** Focus more on building a working application rather than tools and features. We will learn them as we go along. It is a process and it will take time. 
+**Reminder** Focus more on building a working application rather than tools and features. We will learn them as we go along. It is a process and it will take time.
+
+### React Basics : 
+- Components and UI
+- Events and Data such as 'props' & 'state'
+- Styling React Components & Apps
+- React Hooks
 
 **Packages/Libraries** 
 - React
