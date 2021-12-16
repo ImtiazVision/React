@@ -1,3 +1,7 @@
+### React 
+
+**React** : is a framework for creating graphical user interfaces.
+
 The Spread Operator literally distributes the contents of an array into its components, making operations like concatenation and so on easier. If we wish to concatenate two arrays, we may do it using the `concat` function, as seen below: 
 
 ```x = [1,2,3];
