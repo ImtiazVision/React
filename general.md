@@ -2,6 +2,10 @@
 
 **React** : is a framework for creating graphical user interfaces. It is just a library that makes it simple to create user interfaces. It is not a framework, but rather a library. It does not have a plethora of built-in functions for easily creating complex web applications. There are no API call services or methods, built-in models, or ORM. React focuses solely on user interfaces. In our application, it is just the "view layer."
 
+### Component is based Framework
+
+React is a component-based framework. We write encapsulated, useful components that can be assembled and reused at our leisure. Composition, or the process of merging many components into a "whole," is encouraged by React.
+
 The Spread Operator literally distributes the contents of an array into its components, making operations like concatenation and so on easier. If we wish to concatenate two arrays, we may do it using the `concat` function, as seen below: 
 
 ```x = [1,2,3];
